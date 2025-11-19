@@ -2,7 +2,7 @@
 ## Quantitative veterinary epidemiology and disease ecology lab
 ==============================
 
-Text summarizing your project.
+Part 4, Step 5 - The first assignment on hummingbird date consisted in taking a data set of hummingbird rehabilitation cases. The there were 12 variables and 6908 observations. We initially read and checked the data, and then created a random subset. From that subset we then created an overview plot of number of rescued hummingbirds per each rescue center. Lastly, we generated  various tables and plots to look into how certain covariates may have been affecting survival.
 
 ## Project Organization
 ------------
